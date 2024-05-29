@@ -13,7 +13,10 @@ Bem-vindo ao meu perfil GitHub! Sou um desenvolvedor Java entusiasmado, apaixona
 ## Sobre Mim
 
 - 🔭 Atualmente, estou trabalhando na BMO (Desenvolvedor Back-End - Colaborativo) .
-- 🌱 Estou aprendendo Typescript, NodeJS, Express Framework.
+- 🌱 Estou aprendendo [![TypeScript Badge](https://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=typescript&logoColor=white)](),![Node.js Badge](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js&logoColor=white), ![Express.js Badge](https://img.shields.io/badge/-Express.js-green?style=flat-square&logo=express&logoColor=white).
+
+
+
 - 👯 Estou procurando colaborar em Projetos JAVA , Spring Boot.
 - 📫 Como me encontrar: lipesilva1071@gmail.com 
 
