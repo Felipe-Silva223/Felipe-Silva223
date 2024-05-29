@@ -22,15 +22,21 @@ Bem-vindo ao meu perfil GitHub! Sou um desenvolvedor Java entusiasmado, apaixona
 Aqui estão algumas das tecnologias e ferramentas com as quais tenho experiência:
 
 - **Linguagens de Programação**: [![Java Badge](https://img.shields.io/badge/-Java-red?style=flat-square&logo=java&logoColor=white)]()
+
 - **Frameworks e Bibliotecas**:
+
   - Spring Boot: ![Spring Boot Badge](https://img.shields.io/badge/-Spring_Boot-green?style=flat-square&logo=spring&logoColor=white)
   - Hibernate: ![Hibernate Badge](https://img.shields.io/badge/-Hibernate-blue?style=flat-square&logo=hibernate&logoColor=white)
   - Maven: ![Maven Badge](https://img.shields.io/badge/-Maven-yellow?style=flat-square&logo=apache-maven&logoColor=white)
+
 - **Ferramentas de Desenvolvimento**:
+
   - IntelliJ IDEA: ![IntelliJ IDEA Badge](https://img.shields.io/badge/-IntelliJ_IDEA-red?style=flat-square&logo=intellij-idea&logoColor=white)
   - Git: ![Git Badge](https://img.shields.io/badge/-Git-orange?style=flat-square&logo=git&logoColor=white)
   - Docker: ![Docker Badge](https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker&logoColor=white)
   - JUnit: ![JUnit Badge](https://img.shields.io/badge/-JUnit-green?style=flat-square&logo=junit&logoColor=white)
+  - VSCode: ![VSCode Badge](https://img.shields.io/badge/-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)
+
 - **Bancos de Dados**:
   - PostgreSQL: ![PostgreSQL Badge](https://img.shields.io/badge/-PostgreSQL-blue?style=flat-square&logo=postgresql&logoColor=white)
   - MongoDB: ![MongoDB Badge](https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb&logoColor=white)
