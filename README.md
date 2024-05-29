@@ -1,8 +1,8 @@
 # Olá, Eu sou Felipe!
 
-[![Linkedin Badge](https://img.shields.io/badge/-SeuNome-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-silva-127503198)](https://www.linkedin.com/in/felipe-silva-127503198)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lipesilva1071@gmail.com)](mailto:lipesilva1071@gmail.com)
-[![GitHub Badge](https://img.shields.io/badge/-seuusername-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/Felipe-Silva233)](https://github.com/Felipe-Silva233)
+[![Linkedin Badge](https://img.shields.io/badge/-FelipeSilva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-silva-127503198)](https://www.linkedin.com/in/felipe-silva-127503198)
+[![Gmail Badge](https://img.shields.io/badge/-lipesilva1071@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lipesilva1071@gmail.com)](mailto:lipesilva1071@gmail.com)
+[![GitHub Badge](https://img.shields.io/badge/-Felipe-Silva223-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/Felipe-Silva233)](https://github.com/Felipe-Silva233)
 [![Instagram Badge](https://img.shields.io/badge/-felipegomes5165-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/felipegomes5165)](https://instagram.com/felipegomes5165)
 
 
