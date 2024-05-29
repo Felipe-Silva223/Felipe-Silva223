@@ -21,19 +21,20 @@ Bem-vindo ao meu perfil GitHub! Sou um desenvolvedor Java entusiasmado, apaixona
 
 Aqui estão algumas das tecnologias e ferramentas com as quais tenho experiência:
 
-- **Linguagens de Programação**: JAVA
+- **Linguagens de Programação**: [![Java Badge](https://img.shields.io/badge/-Java-red?style=flat-square&logo=java&logoColor=white)]()
 - **Frameworks e Bibliotecas**:
-- Spring Boot: Para o desenvolvimento de aplicações Java rápidas e fáceis de configurar.
-- Hibernate: Um framework de mapeamento objeto-relacional (ORM) para Java que facilita a interação com bancos de dados.
-- Maven: Uma ferramenta de automação de compilação utilizada principalmente para projetos Java.
+  - Spring Boot: ![Spring Boot Badge](https://img.shields.io/badge/-Spring_Boot-green?style=flat-square&logo=spring&logoColor=white)
+  - Hibernate: ![Hibernate Badge](https://img.shields.io/badge/-Hibernate-blue?style=flat-square&logo=hibernate&logoColor=white)
+  - Maven: ![Maven Badge](https://img.shields.io/badge/-Maven-yellow?style=flat-square&logo=apache-maven&logoColor=white)
 - **Ferramentas de Desenvolvimento**:
-- IntelliJ IDEA: Uma IDE poderosa para desenvolvimento Java.
-- Git: Sistema de controle de versão distribuído para rastreamento de mudanças em arquivos de código-fonte durante o desenvolvimento de software.
-- Docker: Uma plataforma para desenvolver, enviar e executar aplicativos em contêineres.
-- JUnit: Um framework de teste unitário para a linguagem de programação Java.
+  - IntelliJ IDEA: ![IntelliJ IDEA Badge](https://img.shields.io/badge/-IntelliJ_IDEA-red?style=flat-square&logo=intellij-idea&logoColor=white)
+  - Git: ![Git Badge](https://img.shields.io/badge/-Git-orange?style=flat-square&logo=git&logoColor=white)
+  - Docker: ![Docker Badge](https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker&logoColor=white)
+  - JUnit: ![JUnit Badge](https://img.shields.io/badge/-JUnit-green?style=flat-square&logo=junit&logoColor=white)
 - **Bancos de Dados**:
-- PostgreSQL: Um sistema de gerenciamento de banco de dados relacional de código aberto.
-- MongoDB: Um banco de dados NoSQL orientado a documentos.
+  - PostgreSQL: ![PostgreSQL Badge](https://img.shields.io/badge/-PostgreSQL-blue?style=flat-square&logo=postgresql&logoColor=white)
+  - MongoDB: ![MongoDB Badge](https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb&logoColor=white)
+
 
 ## Projetos em Destaque
 
