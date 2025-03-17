@@ -12,7 +12,7 @@ Bem-vindo ao meu perfil GitHub! Sou um desenvolvedor Java entusiasmado, apaixona
 
 ## Sobre Mim
 
-- 🔭 Atualmente, estou trabalhando na BMO (Desenvolvedor Back-End - Colaborativo) .
+- 🔭 Atualmente, estou trabalhando na SKEPS .
 - 🌱 Estou aprendendo [![TypeScript Badge](https://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=typescript&logoColor=white)](),![Node.js Badge](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js&logoColor=white), ![Express.js Badge](https://img.shields.io/badge/-Express.js-green?style=flat-square&logo=express&logoColor=white).
 
 
